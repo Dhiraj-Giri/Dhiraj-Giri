@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Dhiraj Giri
 
-I am a full stack developer specialized in MERN stack technologies. 👨‍💻 A highly dedicated , self motivated person and who possess interest in computer and software technology.. Currently, I have an expertise in HTML, CSS, and JavaScript. Additionally, I have knowledge and experience in React js, Node.js, Express Js, MongoDB, Git and GitHub & hands-on practice in Data Structure and Algorithms.
+<h3>I am a full stack developer specialized in MERN stack technologies. 👨‍💻 A highly dedicated , self motivated person and who possess interest in computer and software technology.. Currently, I have an expertise in HTML, CSS, and JavaScript. Additionally, I have knowledge and experience in React js, Node.js, Express Js, MongoDB, Git and GitHub & hands-on practice in Data Structure and Algorithms.</h3>
 
 <!--
 Here are some ideas to get you started:
