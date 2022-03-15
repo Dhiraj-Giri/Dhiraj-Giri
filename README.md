@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dhiraj Giri</h1>
-<h3 align="center">I am a Full Stack Web Developer specialized in MERN Stack. I am an enthusiastic and hard-working person who is passionate about web development and coding. My Tech skills include HTML5, CSS, Node.JS, Express-JS, JavaScript, GitHub, MongoDB.</h3>
+<h3 align="center">I am a Full Stack Web Developer specialized in MERN Stack. I am an enthusiastic and hard-working person who is passionate about web development and coding. My Tech skills include HTML5, CSS, JavaScript, React, Redux, Node.JS, Express-JS, GitHub, MongoDB.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhiraj-giri&label=Profile%20views&color=0e75b6&style=flat" alt="dhiraj-giri" /> </p>
 
