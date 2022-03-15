@@ -1,7 +1,12 @@
 ### Hi there 👋 I'm Dhiraj Giri
 
-<!--
-**Dhiraj-Giri/Dhiraj-Giri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+An enthusiastic and hard-working individual. Passionate
+about coding and adapting new skills and utilizing it
+efficiently. A good team worker and proficient in
+executing goal-oriented projects. Strongly interested in
+working as a software developer to enhance his skills
+and gain experience.
+
 
 Here are some ideas to get you started:
 
